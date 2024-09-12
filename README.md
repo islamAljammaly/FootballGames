@@ -1,2 +1,2 @@
 # FootballGames
-This is an application that contains many games related to your knowledge about football
+This is an application that I created when I started programming. The application contains many games that are spread on YouTube, such as the thirty challenge and the Sabaho channel challenges that are related to European and international football information. The application is not made professionally. I made it using Stateful Widget and used Getx in it as a library only and didn't use it as State Management.
